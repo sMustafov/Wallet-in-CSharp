@@ -1,0 +1,11 @@
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\bin\Debug\netcoreapp2.0\CSharpWallet.deps.json
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\bin\Debug\netcoreapp2.0\CSharpWallet.runtimeconfig.json
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\bin\Debug\netcoreapp2.0\CSharpWallet.runtimeconfig.dev.json
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\bin\Debug\netcoreapp2.0\CSharpWallet.dll
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\obj\Debug\netcoreapp2.0\CSharpWallet.csprojResolveAssemblyReference.cache
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\obj\Debug\netcoreapp2.0\CSharpWallet.csproj.CoreCompileInputs.cache
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\obj\Debug\netcoreapp2.0\CSharpWallet.AssemblyInfoInputs.cache
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\obj\Debug\netcoreapp2.0\CSharpWallet.AssemblyInfo.cs
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\bin\Debug\netcoreapp2.0\CSharpWallet.pdb
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\obj\Debug\netcoreapp2.0\CSharpWallet.dll
+C:\Users\sevgi\source\repos\CSharpWallet\CSharpWallet\obj\Debug\netcoreapp2.0\CSharpWallet.pdb
